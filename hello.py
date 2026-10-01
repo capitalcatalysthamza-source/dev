@@ -5,4 +5,6 @@ print "hello hi"
 print "from working directory"
 print "from github"
 print "line 7"
+<<<<<<< HEAD
 local 8
+github 8
