@@ -5,3 +5,4 @@ print "hello hi"
 print "from working directory"
 print "from github"
 print "line 7"
+local 8
