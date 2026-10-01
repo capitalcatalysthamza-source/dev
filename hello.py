@@ -4,3 +4,4 @@ print "hello hi"
 <<<<<<< HEAD
 print "from working directory"
 print "from github"
+print "line 7"
